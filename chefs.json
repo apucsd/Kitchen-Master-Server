@@ -1,0 +1,251 @@
+{
+  "chefs": [
+    {
+      "id": 1,
+      "chef_picture": "https://st4.depositphotos.com/1017986/25367/i/600/depositphotos_253679410-stock-photo-happy-male-indian-chef-or.jpg",
+      "chef_name": "Saransh Singh",
+      "year_of_experience": 10,
+      "number_of_recipes": 50,
+      "likes": 5000,
+      "short_bio": "Chef Saransh specializes in North Indian cuisine and has been running his own restaurant for the past 5 years.",
+      "recipes": [
+        {
+          "id": 1,
+          "recipe_name": "Butter Chicken",
+          "ingredients": ["Chicken", "Tomatoes", "Cream", "Butter", "Spices"],
+          "cooking_method": "Marinate chicken in spices and yogurt, then cook in tomato and cream sauce with butter.",
+          "rating": 4.5
+        },
+        {
+          "id": 2,
+          "recipe_name": "Paneer Tikka",
+          "ingredients": [
+            "Paneer",
+            "Bell peppers",
+            "Onions",
+            "Spices",
+            "Lemon juice"
+          ],
+          "cooking_method": "Marinate paneer and vegetables in spices and lemon juice, then grill on skewers.",
+          "rating": 4.0
+        },
+        {
+          "id": 3,
+          "recipe_name": "Chole Bhature",
+          "ingredients": ["Chickpeas", "Onion", "Tomatoes", "Spices", "Flour"],
+          "cooking_method": "Cook chickpeas in spicy tomato gravy and serve with deep-fried bread.",
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chef_picture": "https://example.com/chef2.jpg",
+      "chef_name": "Rajesh Sharma",
+      "year_of_experience": 15,
+      "number_of_recipes": 75,
+      "likes": 8000,
+      "short_bio": "Chef Rajesh is known for his expertise in South Indian cuisine and has won several awards for his dishes.",
+      "recipes": [
+        {
+          "id": 1,
+          "recipe_name": "Masala Dosa",
+          "ingredients": ["Rice", "Urad dal", "Potatoes", "Spices", "Oil"],
+          "cooking_method": "Soak rice and dal, grind into batter, ferment overnight, and use to make crispy dosas filled with spicy potatoes.",
+          "rating": 4.8
+        },
+        {
+          "id": 2,
+          "recipe_name": "Sambar",
+          "ingredients": [
+            "Toor dal",
+            "Vegetables",
+            "Tamarind",
+            "Spices",
+            "Oil"
+          ],
+          "cooking_method": "Cook dal and vegetables in tamarind and spice broth, and temper with fried spices and curry leaves.",
+          "rating": 4.6
+        },
+        {
+          "id": 3,
+          "recipe_name": "Rasam",
+          "ingredients": [
+            "Tomatoes",
+            "Tamarind",
+            "Spices",
+            "Coriander leaves",
+            "Ghee"
+          ],
+          "cooking_method": "Cook tomatoes and tamarind in spice broth, and temper with ghee and coriander leaves.",
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chef_picture": "https://example.com/chef3.jpg",
+      "chef_name": "Priya Patel",
+      "year_of_experience": 8,
+      "number_of_recipes": 40,
+
+      "likes": 3500,
+      "short_bio": "Chef Priya specializes in vegetarian dishes and incorporates modern twists into traditional recipes.",
+      "recipes": [
+        {
+          "id": 1,
+          "recipe_name": "Palak Paneer",
+          "ingredients": ["Spinach", "Paneer", "Onion", "Tomatoes", "Spices"],
+          "cooking_method": "Blanch spinach, puree it with spices, and cook with paneer and tomato-onion gravy.",
+          "rating": 4.3
+        },
+        {
+          "id": 2,
+          "recipe_name": "Aloo Gobi",
+          "ingredients": [
+            "Potatoes",
+            "Cauliflower",
+            "Onion",
+            "Tomatoes",
+            "Spices"
+          ],
+          "cooking_method": "Cook potatoes and cauliflower with onion and tomato gravy, and season with spices.",
+          "rating": 4.1
+        },
+        {
+          "id": 3,
+          "recipe_name": "Mushroom Masala",
+          "ingredients": ["Mushrooms", "Onion", "Tomatoes", "Spices", "Cream"],
+          "cooking_method": "Saute mushrooms with onion and tomato gravy, and add cream and spices for a creamy texture.",
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chef_picture": "https://example.com/chef4.jpg",
+      "chef_name": "Rahul Mehra",
+      "year_of_experience": 12,
+      "number_of_recipes": 60,
+      "likes": 4000,
+      "short_bio": "Chef Rahul is a master of Punjabi cuisine and has been featured on several cooking shows.",
+      "recipes": [
+        {
+          "id": 1,
+          "recipe_name": "Sarson Ka Saag",
+          "ingredients": [
+            "Mustard leaves",
+            "Spinach",
+            "Maize flour",
+            "Ghee",
+            "Spices"
+          ],
+          "cooking_method": "Boil and puree mustard and spinach leaves, cook with maize flour and spices, and temper with ghee.",
+          "rating": 4.6
+        },
+        {
+          "id": 2,
+          "recipe_name": "Dal Makhani",
+          "ingredients": [
+            "Black lentils",
+            "Kidney beans",
+            "Tomatoes",
+            "Cream",
+            "Spices"
+          ],
+          "cooking_method": "Cook lentils and beans in tomato gravy with cream and spices, and temper with ghee.",
+          "rating": 4.4
+        },
+        {
+          "id": 3,
+          "recipe_name": "Paneer Makhani",
+          "ingredients": ["Paneer", "Tomatoes", "Cream", "Spices", "Butter"],
+          "cooking_method": "Cook paneer in tomato gravy with cream and spices, and temper with butter.",
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chef_picture": "https://st4.depositphotos.com/1017986/25367/i/600/depositphotos_253679410-stock-photo-happy-male-indian-chef-or.jpg",
+      "chef_name": "Saransh Singh",
+      "year_of_experience": 10,
+      "number_of_recipes": 50,
+      "likes": 5000,
+      "short_bio": "Chef Saransh specializes in North Indian cuisine and has been running his own restaurant for the past 5 years.",
+      "recipes": [
+        {
+          "id": 1,
+          "recipe_name": "Butter Chicken",
+          "ingredients": ["Chicken", "Tomatoes", "Cream", "Butter", "Spices"],
+          "cooking_method": "Marinate chicken in spices and yogurt, then cook in tomato and cream sauce with butter.",
+          "rating": 4.5
+        },
+        {
+          "id": 2,
+          "recipe_name": "Paneer Tikka",
+          "ingredients": [
+            "Paneer",
+            "Bell peppers",
+            "Onions",
+            "Spices",
+            "Lemon juice"
+          ],
+          "cooking_method": "Marinate paneer and vegetables in spices and lemon juice, then grill on skewers.",
+          "rating": 4.0
+        },
+        {
+          "id": 3,
+          "recipe_name": "Chole Bhature",
+          "ingredients": ["Chickpeas", "Onion", "Tomatoes", "Spices", "Flour"],
+          "cooking_method": "Cook chickpeas in spicy tomato gravy and serve with deep-fried bread.",
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chef_picture": "https://example.com/chef4.jpg",
+      "chef_name": "Rahul Mehra",
+      "year_of_experience": 12,
+      "number_of_recipes": 60,
+      "likes": 4000,
+      "short_bio": "Chef Rahul is a master of Punjabi cuisine and has been featured on several cooking shows.",
+      "recipes": [
+        {
+          "id": 1,
+          "recipe_name": "Sarson Ka Saag",
+          "ingredients": [
+            "Mustard leaves",
+            "Spinach",
+            "Maize flour",
+            "Ghee",
+            "Spices"
+          ],
+          "cooking_method": "Boil and puree mustard and spinach leaves, cook with maize flour and spices, and temper with ghee.",
+          "rating": 4.6
+        },
+        {
+          "id": 2,
+          "recipe_name": "Dal Makhani",
+          "ingredients": [
+            "Black lentils",
+            "Kidney beans",
+            "Tomatoes",
+            "Cream",
+            "Spices"
+          ],
+          "cooking_method": "Cook lentils and beans in tomato gravy with cream and spices, and temper with ghee.",
+          "rating": 4.4
+        },
+        {
+          "id": 3,
+          "recipe_name": "Paneer Makhani",
+          "ingredients": ["Paneer", "Tomatoes", "Cream", "Spices", "Butter"],
+          "cooking_method": "Cook paneer in tomato gravy with cream and spices, and temper with butter.",
+          "rating": 4.2
+        }
+      ]
+    }
+  ]
+}
