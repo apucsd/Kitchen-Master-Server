@@ -40,7 +40,7 @@
     },
     {
       "id": 2,
-      "chef_picture": "https://example.com/chef2.jpg",
+      "chef_picture": "https://st4.depositphotos.com/1017986/25367/i/600/depositphotos_253679410-stock-photo-happy-male-indian-chef-or.jpg",
       "chef_name": "Rajesh Sharma",
       "year_of_experience": 15,
       "number_of_recipes": 75,
@@ -84,7 +84,7 @@
     },
     {
       "id": 3,
-      "chef_picture": "https://example.com/chef3.jpg",
+      "chef_picture": "https://st4.depositphotos.com/1017986/25367/i/600/depositphotos_253679410-stock-photo-happy-male-indian-chef-or.jpg",
       "chef_name": "Priya Patel",
       "year_of_experience": 8,
       "number_of_recipes": 40,
@@ -123,7 +123,7 @@
     },
     {
       "id": 4,
-      "chef_picture": "https://example.com/chef4.jpg",
+      "chef_picture": "https://st4.depositphotos.com/1017986/25367/i/600/depositphotos_253679410-stock-photo-happy-male-indian-chef-or.jpg",
       "chef_name": "Rahul Mehra",
       "year_of_experience": 12,
       "number_of_recipes": 60,
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "chef_picture": "https://st4.depositphotos.com/1017986/25367/i/600/depositphotos_253679410-stock-photo-happy-male-indian-chef-or.jpg",
       "chef_name": "Saransh Singh",
       "year_of_experience": 10,
@@ -204,8 +204,8 @@
       ]
     },
     {
-      "id": 4,
-      "chef_picture": "https://example.com/chef4.jpg",
+      "id": 6,
+      "chef_picture": "https://st4.depositphotos.com/1017986/25367/i/600/depositphotos_253679410-stock-photo-happy-male-indian-chef-or.jpg",
       "chef_name": "Rahul Mehra",
       "year_of_experience": 12,
       "number_of_recipes": 60,
